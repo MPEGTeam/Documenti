@@ -1,0 +1,309 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Preparazione
+\end_layout
+
+\begin_layout Standard
+Il team è composto da:
+\end_layout
+
+\begin_layout Itemize
+Agostinetto, Mattia
+\end_layout
+
+\begin_layout Itemize
+Maggiolo, Giorgio
+\end_layout
+
+\begin_layout Itemize
+Zerbato, Elena
+\end_layout
+
+\begin_layout Itemize
+Zohouri Haghian, Pardis
+\end_layout
+
+\begin_layout Standard
+Nome team: MPEG
+\end_layout
+
+\begin_layout Section
+Comprensione
+\end_layout
+
+\begin_layout Subsection
+Lista tematiche possibili
+\end_layout
+
+\begin_layout Standard
+Segue ora una lista di idee classificata per categoria.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Domotica/Gamification, Risparmio Energetico, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per il miglioramento delle abitudini energetiche delle persone applicand
+o le dinamiche di Gamification per calcolare il 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+punteggio energetico
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Punteggio calcolato su una serie di parametri che indica quanto una persona
+ è attenta al risparmio energetico
+\end_layout
+
+\end_inset
+
+ e invogliare il giocatore a migliorarlo
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/Social/Disintermediazione/Geolocalizzazione, Alimentazione/Ambiente
+ e green, C2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per la vendita di generi alimentari ortofrutticoli prodotti in proprio
+ da coltivatori casuali
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification/E-learning, Sicurezza, Per Aziende
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Un progetto che aiuti le aziende a far apprendere la sicurezza sul lavoro
+ attraverso le leve comportamentali della Gamification
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification/Social, Istruzione/Cultura, Per Bambini
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Un progetto per aiutare i bambini a conoscere e accettare le differenze
+ culturali tra le diverse comunità giocando
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/M-Commerce/Cloud Computing/Emotion 2.0, Intrattenimento, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Realizzazione di una piattaforma per la stampa e la consegna a domicilio
+ di foto on-demand, con possibilità di memorizzazione di queste all'interno
+ dei server dell'azienda
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Geolocalizzazione, Sicurezza, Per Anziani/Per Portatori di Handicap
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Metodo per geolocalizzare individui con problemi fisici e/o psicologici,
+ improntato alla sicurezza 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/Realtà Aumentata, Intrattenimento, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema di calcolo e visualizzazione punteggi per giocatori, interfacciando
+ pallina e mazza con un software che permetterà di calcolare automaticamente
+ i punteggi di una partita.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Internet delle cose/Mobile/Gamification, Ambiente e green/Riciclaggio, B2C/B2B
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per sensibilizzare le persone sull'importanza del riciclaggio attraverso
+ dinamiche di Gamification
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification, Salute, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema che, utilizzando la Gamification, incentivi i fumatori a smettere
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Prenotazioni/Mobile, Risparmio/Facilitazione, B2B/B2G
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema di automatizzazione delle code d'attesa degli sportelli
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Tematica scelta
+\end_layout
+
+\begin_layout Standard
+Dopo aver visto gli ambiti che ci potevano interessare, abbiamo decido di
+ analizzare la seguente tematica:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Domotica/Gamification, Risparmio Energetico, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per il miglioramento delle abitudini energetiche delle persone applicand
+o le dinamiche di Gamification per calcolare il 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+punteggio energetico
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Punteggio calcolato su una serie di parametri che indica quanto una persona
+ è attenta al risparmio energetico
+\end_layout
+
+\end_inset
+
+ e invogliare il giocatore a migliorarlo
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
