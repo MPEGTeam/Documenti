@@ -65,7 +65,1058 @@
 
 \begin_body
 
+\begin_layout Section
+Tematica
+\end_layout
+
 \begin_layout Standard
+Il primo passo è la scelta del tema su cui si vuole lavorare.
+\end_layout
+
+\begin_layout Standard
+Inizialmente il gruppo ha svolto un'esplorazione fra i suoi membri cercando
+ di identificare quali potessero essere le tematiche che potessero essere
+ d'interesse.
+ Segue il risultato di questa esplorazione, elencando sia i temi che sono
+ emersi, sia una loro breve descrizione:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Domotica/Gamification, Risparmio Energetico, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per il miglioramento delle abitudini energetiche delle persone applicand
+o le dinamiche di Gamification
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/Social/Disintermediazione/Geolocalizzazione, Alimentazione/Ambiente
+ e green, C2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per la vendita di generi alimentari ortofrutticoli prodotti in proprio
+ da coltivatori casuali
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification/E-learning, Sicurezza, Per Aziende
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Un progetto che aiuti le aziende a far apprendere la sicurezza sul lavoro
+ attraverso le leve comportamentali della Gamification
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification/Social, Istruzione/Cultura, Per Bambini
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Un progetto per aiutare i bambini a conoscere e accettare le differenze
+ culturali tra le diverse comunità giocando
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/M-Commerce/Cloud Computing/Emotion 2.0, Intrattenimento, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Realizzazione di una piattaforma per la stampa e la consegna a domicilio
+ di foto on-demand, con possibilità di memorizzazione di queste all'interno
+ dei server dell'azienda
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Geolocalizzazione, Sicurezza, Per Anziani/Per Portatori di Handicap
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Metodo per geolocalizzare individui con problemi fisici e/o psicologici,
+ improntato alla sicurezza 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Mobile/Realtà Aumentata, Intrattenimento, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema di calcolo e visualizzazione punteggi per giocatori, interfacciando
+ pallina e mazza con un software che permetterà di calcolare automaticamente
+ i punteggi di una partita.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Internet delle cose/Mobile/Gamification, Ambiente e green/Riciclaggio, B2C/B2B
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema per sensibilizzare le persone sull'importanza del riciclaggio attraverso
+ dinamiche di Gamification
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Gamification, Salute, B2C
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema che, utilizzando la Gamification, incentivi i fumatori a smettere
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Prenotazioni/Mobile, Risparmio/Facilitazione, B2B/B2G
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Sistema di automatizzazione delle code d'attesa degli sportelli
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+A seguito di un'analisi di ogni singola tematica, però, alla fine l'unica
+ 
+\begin_inset Quotes eld
+\end_inset
+
+sopravissuta
+\begin_inset Quotes erd
+\end_inset
+
+ è stata la prima, ovvero: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\series bold
+Domotica/Gamification, Risparmio Energetico, B2C
+\end_layout
+
+\begin_layout Standard
+Sistema per il miglioramento delle abitudini energetiche delle persone applicand
+o le dinamiche di Gamification
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Competitor
+\end_layout
+
+\begin_layout Standard
+Vediamo ora un'analisi dei possibili competitor della nostra tematica.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+!ATTENZIONE! Alcuni dei competitor che abbiamo elencato sono progetti che
+ sono già stati terminati.
+ Abbiamo deciso di includerli comunque nell'analisi dei competitor in quanto
+ pensiamo che dalla loro esperienza si possa trarre degli insegnamenti
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+begin{longtable}{|rp{7cm}|} 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	
+\backslash
+multicolumn{2}{|c|}{Competitor} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline 
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Nome Progetto: & 
+\backslash
+parbox{7cm}{!!NOMEPUBBLICAZIONE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Anno Pubblicazione: & 
+\backslash
+parbox{7cm}{!!ANNOPUBBLICAZIONE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Nome Competitor: & 
+\backslash
+parbox{7cm}{!!NOMECOMPETITOR!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Dimensione Competitor: & 
+\backslash
+parbox{7cm}{!!DIMENSIONECOMPETITOR!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Struttura Aziendale/Societaria: & 
+\backslash
+parbox{7cm}{!!STRUTTURAAZIENDALE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Descrizione Progetto: & 
+\backslash
+parbox{7cm}{!!DESCRIZIONEPROGETTO!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Value Proposition: & 
+\backslash
+parbox{7cm}{!!VALUEPROPOSITION!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Customer Segments: & 
+\backslash
+parbox{7cm}{!!CUSTOMERSEGMENTS!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Punti di forza: & 
+\backslash
+parbox{7cm}{!!PUNTIDIFORZA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Punti di debolezza: & 
+\backslash
+parbox{7cm}{!!PUNTIDIDEBOLEZZA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Canali Utilizzati: & 
+\backslash
+parbox{7cm}{!!CANALIUTILIZZATI!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Note: & 
+\backslash
+parbox{7cm}{!!NOTE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Revenue Streams: & 
+\backslash
+parbox{7cm}{!!REVENUESTREAMS!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+end{longtable}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{longtable}{|rp{7cm}|} 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+multicolumn{2}{|c|}{Competitor} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Nome Progetto: & 
+\backslash
+parbox{7cm}{Google PowerMeter} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Anno Pubblicazione: & 
+\backslash
+parbox{7cm}{05/10/2009} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Anno Chiusura: & 
+\backslash
+parbox{7cm}{16/09/2011} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Motivazioni: & 
+\backslash
+parbox{7cm}{
+\backslash
+begin{itemize}
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Il progetto non ha trovato la penetrazione nella clientela auspicata
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Quello che Google non è riuscito a fare è organizzare informazioni
+ "offline" portandole "online"
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{itemize}} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Nome Competitor: & 
+\backslash
+parbox{7cm}{Google.org} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Dimensione Competitor: & 
+\backslash
+parbox{7cm}{Enorme} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Struttura Aziendale/Societaria: & 
+\backslash
+parbox{7cm}{Organizzazione no-profit} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Descrizione Progetto: & 
+\backslash
+parbox{7cm}{Strumento gratuito per monitorare l'energia, per sensibilizzare
+ le persone sull'utilizzo e lo spreco dell'energia.
+ I suoi servizi chiave sono: 
+\backslash
+begin{itemize}
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Possibilità di condividere informazioni con altri
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Consigli personalizzati per risparmiare energia
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{itemize}} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Value Proposition: & 
+\backslash
+parbox{7cm}{Free, supporto, brand, Accessibilità (da qualsiasi pc)} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Customer Segments: & 
+\backslash
+parbox{7cm}{Mercati di massa (americano e inglese)} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Punti di forza: & 
+\backslash
+parbox{7cm}{Partnership (
+\backslash
+emph{The Energy Detective [TED 5000]} e 
+\backslash
+emph{AlertMe})} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Punti di debolezza: & 
+\backslash
+parbox{7cm}{Non ha raggiunto gli obiettivi prefissati} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Canali Utilizzati: & 
+\backslash
+parbox{7cm}{Internet} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Note: & 
+\backslash
+parbox{7cm}{
+\backslash
+begin{itemize}
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Gli studi hanno rivelato che il solo accesso ad tali informazioni aiutano
+ i consumatori a ridurre il loro uso di energia di circa il 15 
+\backslash
+%
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item Gli stati come la California e il Texas si stanno muovendo per finalizzare
+ politiche e programmi in questo ambito
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+item La Casa Bianca ha annunciato l'obiettivo di permettere a tutti i consumator
+i l'accesso al loro consumo energetico in formati usabili dai computer come
+ parti del piano di rinnovamento della griglia elettrica
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{itemize}} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Revenue Streams: & 
+\backslash
+parbox{7cm}{No-Profit} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{longtable}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tecnologie
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+begin{longtable}{|rp{8cm}|} 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	
+\backslash
+multicolumn{2}{|c|}{Tecnologia} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Nome Tecnologia: & 
+\backslash
+parbox{8cm}{!!NOMETECNOLOGIA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Anno Realizzazione: & 
+\backslash
+parbox{8cm}{!!ANNOREALIZZAZIONE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Nome Produttore: & 
+\backslash
+parbox{8cm}{!!NOMEPRODUTTORE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Dimensione Produttore: & 
+\backslash
+parbox{8cm}{!!DIMENSIONEPRODUTTORE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Descrizione Tecnologia: & 
+\backslash
+parbox{8cm}{!!DESCRIZIONETECNOLOGIA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Utilità per il progetto: & 
+\backslash
+parbox{8cm}{!!UTILITA'PERILPROGETTO!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Reperibilit
+\backslash
+'a sul mercato: & 
+\backslash
+parbox{8cm}{!!REPERIBILITA'!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Prezzo: & 
+\backslash
+parbox{8cm}{!!PREZZO!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%	Note: & 
+\backslash
+parbox{8cm}{!!NOTE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+end{longtable}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{longtable}{|rp{8cm}|} 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+multicolumn{2}{|c|}{Tecnologia} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Nome Tecnologia: & 
+\backslash
+parbox{8cm}{!!NOMETECNOLOGIA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Anno Realizzazione: & 
+\backslash
+parbox{8cm}{!!ANNOREALIZZAZIONE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Nome Produttore: & 
+\backslash
+parbox{8cm}{!!NOMEPRODUTTORE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Dimensione Produttore: & 
+\backslash
+parbox{8cm}{!!DIMENSIONEPRODUTTORE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Descrizione Tecnologia: & 
+\backslash
+parbox{8cm}{!!DESCRIZIONETECNOLOGIA!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Utilità per il progetto: & 
+\backslash
+parbox{8cm}{!!UTILITA'PERILPROGETTO!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Reperibilit
+\backslash
+'a sul mercato: & 
+\backslash
+parbox{8cm}{!!REPERIBILITA'!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Prezzo: & 
+\backslash
+parbox{8cm}{!!PREZZO!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+	Note: & 
+\backslash
+parbox{8cm}{!!NOTE!!} 
+\backslash
+
+\backslash
+ 
+\backslash
+hline
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{longtable}
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
